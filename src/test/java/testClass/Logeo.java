@@ -26,7 +26,7 @@ public class Logeo {
         //cargaInformacion.seleccionMultiple(2);
         cargaInformacion.seleccionMultiple("1,3");
         cargaInformacion.seleccionRadioButton(2);
-        cargaInformacion.seleccionarFechaCalendario("2022-03-19");
+        //cargaInformacion.seleccionarFechaCalendario("2022-03-19");
         cargaInformacion.clickBtnEnviar();
     }
 
